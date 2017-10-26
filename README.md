@@ -1,0 +1,1 @@
+*Boilerplate full-stack app with Python/React using webpack*
